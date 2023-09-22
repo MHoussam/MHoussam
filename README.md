@@ -1,4 +1,4 @@
-<img src="https://images.hdqwalls.com/download/i-love-coding-xl-2560x1080.jpg" alt="MasterHead" width="900" height="300">
+<img src="https://images.hdqwalls.com/download/i-love-coding-xl-2560x1080.jpg" alt="MasterHead" width="900" height="300" object-fit="cover">
 
 <h1 align="center">Hello 👋, I'm Mohammad Houssam El-Ddine Osta</h1>
 <h3 align="center">A dedicated full-stack developer</h3>
