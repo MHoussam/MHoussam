@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 👋, I'm Mohammad Houssam El-Ddine Osta</h1>
 <h3 align="center">A dedicated full-stack developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC]([https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd4c2VlYmxzeGszb3o1c3U1NmV6Y3l0dWxzeHJ5dmNsamMwYTBkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220929133147/Why-you-should-use-framework-in-programming.gif))">
+<img align="right" alt="Coding" width="400" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220929133147/Why-you-should-use-framework-in-programming.gif">
 
 - 📫 How to reach me **mohammadosta1999@gmail.com**
 
