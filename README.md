@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRaqK8LtridaPs1AwvvSVw3_Cr0p6Py81-NrMx9QI_59an0PhGmDTW55uG9DAkhi0g62w&usqp=CAU" alt="MasterHead" width="800" height="500">
+<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRaqK8LtridaPs1AwvvSVw3_Cr0p6Py81-NrMx9QI_59an0PhGmDTW55uG9DAkhi0g62w&usqp=CAU](https://images.hdqwalls.com/download/i-love-coding-xl-2560x1080.jpg)" alt="MasterHead" width="800" height="500">
 
 <h1 align="center">Hello 👋, I'm Mohammad Houssam El-Ddine Osta</h1>
 <h3 align="center">A dedicated full-stack developer</h3>
